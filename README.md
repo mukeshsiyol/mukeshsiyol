@@ -33,6 +33,8 @@ I'm a passionate developer and a curious learner from the Indian Institute of Te
 ## 🏆 Achievements
 
 - 🥇 **Secured 1700+ rating on HackerRank**
+- ⚡ **Quickdraw GitHub Achievement**  
+  Earned the [Quickdraw](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/github-badges#quickdraw) badge for opening a pull request within 5 minutes of a repository being created!
 - 📜 *Achievements & certifications coming soon...*
 
 ---
