@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Mukesh Siyol!
+# 👋 Hi there, I'm Mukesh Kumar!
 
 🎓 **Engineering Physics Student at IIT Delhi**  
 💻 **Aspiring Software Development Engineer (SDE)**
