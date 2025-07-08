@@ -43,7 +43,7 @@ I'm a passionate developer and a curious learner from the Indian Institute of Te
 
 - [LinkedIn](https://www.linkedin.com/in/your-link)  
 - [Portfolio/Website](https://yourwebsite.com) *(optional)*  
-- [Email](mailto:your@email.com)
+- [Email](mailto:mukeshsiyol2006@gmail.com)
 
 ---
 
