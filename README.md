@@ -1,56 +1,36 @@
-# 👋 Hi there, I'm Mukesh Kumar!
+# Hi, I'm Mukesh Kumar 👋
 
-🎓 **Engineering Physics Student at IIT Delhi**  
-💻 **Aspiring Software Development Engineer (SDE)**
+Engineering Physics student at **IIT Delhi** | Aspiring **Software Development Engineer**  
+I build at the intersection of **software, hardware, and problem solving**.
 
----
+## 🌐 Portfolio
+**Explore my work:** [mukeshsiyol.me](https://mukeshsiyol.me/)
 
 ## 🚀 About Me
+- Passionate about building practical tech solutions with clean logic and strong fundamentals.
+- Interested in **Data Structures & Algorithms**, **Competitive Programming**, and **Digital Hardware Design**.
+- Currently focused on becoming a well-rounded SDE with strong systems and implementation skills.
 
-I'm a passionate developer and a curious learner from the Indian Institute of Technology Delhi (IITD). I enjoy solving complex problems and building impactful tech solutions. My journey in tech is driven by a love for **algorithms**, **hardware**, and **innovation**.
+## 🛠️ Skills & Tech Stack
+- **Languages:** C++, Python, JavaScript, HTML, CSS
+- **Hardware & Systems:** Verilog, CPLD, Digital Systems
+- **Tools:** Git, GitHub, VS Code, AutoCAD
+- **Platforms:** HackerRank, Codeforces, LeetCode
 
----
-
-## 🧑‍💻 Tech Stack & Skills
-
-- **Languages:** C++, Python, JavaScript, HTML, CSS  
-- **Hardware:** Verilog, CPLD, Digital Systems  
-- **Tools & Platforms:** VS Code, AutoCAD, Git & GitHub, HackerRank (1700+), Codeforces, LeetCode  
-- **Core Interests:** Data Structures & Algorithms, Competitive Programming  
-- **Soft Skills:** Analytical Thinking, Quick Learning, Team Collaboration
-
----
-
-## 🌟 Notable Projects
-
+## 🌟 Featured Project
 ### 🔐 Digilocker Implementation (Verilog + CPLD)
 - Designed and implemented a Digilocker system using Verilog on CPLD hardware.
-- Focused on secure digital storage with hardware-level access control.
-- Bridged digital design theory with real-world application.
-
----
+- Built hardware-level access control for secure digital storage.
+- Applied digital design concepts to a real-world use case.
 
 ## 🏆 Achievements
+- 🥇 **1700+ rating on HackerRank**
+- ⚡ **GitHub Quickdraw Achievement** for opening a pull request within 5 minutes of repository creation
 
-- 🥇 **Secured 1700+ rating on HackerRank**
-- ⚡ **Quickdraw GitHub Achievement**  
-  Earned the [Quickdraw](http://github.com/Mukesh_Kumar06) badge for opening a pull request within 5 minutes of a repository being created!
-- 📜 *Achievements & certifications coming soon...*
-
----
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Portfolio/Website](https://yourwebsite.com) *(optional)*  
-- [Email](mailto:mukeshsiyol2006@gmail.com)
-
----
+## 📫 Contact
+- **Portfolio:** [mukeshsiyol.me](https://mukeshsiyol.me/)
+- **GitHub:** [github.com/mukeshsiyol](https://github.com/mukeshsiyol)
+- **Email:** [mukeshsiyol2006@gmail.com](mailto:mukeshsiyol2006@gmail.com)
 
 ## ⚡ Fun Fact
-
-Outside of coding, I love diving into hands-on hardware projects and staying updated with emerging tech trends!
-
----
-
-_Thanks for visiting my GitHub profile — let's connect and build something awesome together! 🚀_
+I enjoy combining hardware thinking with software execution to solve challenging problems efficiently.
