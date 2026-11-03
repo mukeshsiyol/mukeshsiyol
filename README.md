@@ -1,36 +1,28 @@
-# Hi, I'm Mukesh Kumar 👋
+# Mukesh Kumar
 
-Engineering Physics student at **IIT Delhi** | Aspiring **Software Development Engineer**  
-I build at the intersection of **software, hardware, and problem solving**.
+**Engineering Physics student at IIT Delhi** building practical software across backend engineering and applied AI.
 
-## 🌐 Portfolio
-**Explore my work:** [mukeshsiyol.me](https://mukeshsiyol.me/)
+[Portfolio](https://mukeshsiyol.me) · [LinkedIn](https://linkedin.com/in/mukesh-kumar06) · [Email](mailto:mukeshsiyol2006@gmail.com)
 
-## 🚀 About Me
-- Passionate about building practical tech solutions with clean logic and strong fundamentals.
-- Interested in **Data Structures & Algorithms**, **Competitive Programming**, and **Digital Hardware Design**.
-- Currently focused on becoming a well-rounded SDE with strong systems and implementation skills.
+## Selected projects
 
-## 🛠️ Skills & Tech Stack
-- **Languages:** C++, Python, JavaScript, HTML, CSS
-- **Hardware & Systems:** Verilog, CPLD, Digital Systems
-- **Tools:** Git, GitHub, VS Code, AutoCAD
-- **Platforms:** HackerRank, Codeforces, LeetCode
+| Project | What it does |
+| --- | --- |
+| [Remittance Evidence & Routing Assistant](https://github.com/mukeshsiyol/remittance-evidence-routing-assistant) | Python prototype that organizes evidence from cross-border payment documents and routes uncertain cases for human review. Uses synthetic data; its evaluation is exploratory, not legal validation. |
+| [Finance Tracker API](https://github.com/mukeshsiyol/finance-tracker) | FastAPI backend for financial records, JWT authentication, role-based access, analytics, and data export. |
+| [Internship Application Assistant](https://github.com/mukeshsiyol/internship-application-assistant) | Resume-aware Python tool that matches job descriptions with relevant experience and drafts tailored cover letters. |
+| [COREP Reporting Assistant](https://github.com/mukeshsiyol/corep-assistant) | Internship assignment prototype exploring RAG, structured validation, and audit trails for regulatory reporting. |
+| [Meme Aggregator](https://github.com/mukeshsiyol/Meme-Aggregator) | TypeScript service aggregating decentralized exchange data with caching and live updates. |
+| [Hostel Management](https://github.com/mukeshsiyol/hostel-management) | Web project for student accommodation, room allocation, and hostel operations. |
 
-## 🌟 Featured Project
-### 🔐 Digilocker Implementation (Verilog + CPLD)
-- Designed and implemented a Digilocker system using Verilog on CPLD hardware.
-- Built hardware-level access control for secure digital storage.
-- Applied digital design concepts to a real-world use case.
+## Tools and interests
 
-## 🏆 Achievements
-- 🥇 **1700+ rating on HackerRank**
-- ⚡ **GitHub Quickdraw Achievement** for opening a pull request within 5 minutes of repository creation
+**Languages:** Python, C++, JavaScript, TypeScript  
+**Areas:** Backend APIs, applied AI, retrieval-augmented generation, software engineering  
+**Tools:** FastAPI, SQLAlchemy, Redis, OpenCV, Git
 
-## 📫 Contact
-- **Portfolio:** [mukeshsiyol.me](https://mukeshsiyol.me/)
-- **GitHub:** [github.com/mukeshsiyol](https://github.com/mukeshsiyol)
-- **Email:** [mukeshsiyol2006@gmail.com](mailto:mukeshsiyol2006@gmail.com)
+## More
 
-## ⚡ Fun Fact
-I enjoy combining hardware thinking with software execution to solve challenging problems efficiently.
+- 🌐 [Visit my portfolio](https://mukeshsiyol.me) for an overview of my work.
+- 💼 [Connect on LinkedIn](https://linkedin.com/in/mukesh-kumar06)
+- 📫 [Email me](mailto:mukeshsiyol2006@gmail.com)
