@@ -131,8 +131,8 @@ flowchart LR
 I maintain a [NeetCode-synced solutions repository](https://github.com/mukeshsiyol/leetcode-submissions) covering binary search, trees, linked lists, arrays, greedy problems, and dynamic programming.
 
 <div align="center">
-<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
-<a href="https://codeforces.com/"><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"></a>
+<a href="https://leetcode.com/mukeshsiyol"><img src="https://img.shields.io/badge/LEETCODE-000000?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+<a href="https://codeforces.com/m.s.c."><img src="https://img.shields.io/badge/CODEFORCES-000000?style=for-the-badge&logo=codeforces&logoColor=1F8ACB" alt="Codeforces"></a>
 </div>
 
 Profile URLs and ratings for LeetCode and Codeforces were not present in the accessible profile or repository documentation, so no unverified handles or statistics are shown.
@@ -149,7 +149,7 @@ Profile URLs and ratings for LeetCode and Codeforces were not present in the acc
 ## Connect
 
 <div align="center">
-<a href="https://mukeshsiyol.me">Portfolio</a> ·
+<a href="https://mukeshsiyol.github.io">Portfolio</a> ·
 <a href="https://github.com/mukeshsiyol">GitHub</a> ·
 <a href="https://www.linkedin.com/in/mukesh-kumar06">LinkedIn</a> ·
 <a href="mailto:mukeshsiyol2006@gmail.com">Email</a>
